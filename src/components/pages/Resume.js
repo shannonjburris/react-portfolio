@@ -5,7 +5,7 @@ export default function Resume() {
     <div class="body">
       <h1>Resume</h1>
       <p>
-        <a href="https://github.com/shannonjburris/react-portfolio/blob/main/public/Assets/Images/Shannon%20Burris%20Resume%20Web.pdf">Resume</a>
+        <a href="./Assets/Images/Shannon_Burris_Resume_Web.pdf">Resume</a>
       </p>
     </div>
   );

@@ -5,7 +5,7 @@ export default function About() {
     <div class="body">
       <div class="jumbotron">
         <div id="about-me-image">
-          <img src="https://github.com/shannonjburris/react-portfolio/blob/main/public/Assets/Images/hero.png?raw=true" alt="me" />
+          <img src="https://raw.githubusercontent.com/shannonjburris/react-portfolio/main/Assets/Images/hero.png" alt="me" />
         </div>
       </div>
       <hr class="my-4" />
