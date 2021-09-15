@@ -10,6 +10,16 @@ export default function Portfolio() {
         <div class="left">
         </div>
         <div class="content" id="work-content">
+        <article>
+            <div class="card-links">
+              <h2>The Clean Water Project</h2>
+              <h3>JavaScript/Handlebars/Node and Multer S3</h3>
+              <h4><a href="https://github.com/shannonjburris/Clean_water_project" target="_blank" rel="noreferrer">Repo Link</a></h4>
+            </div>
+            <a href="https://github.com/shannonjburris/day-planner">
+              <img src="https://raw.githubusercontent.com/shannonjburris/react-portfolio/main/Assets/Images/Screen%20Shot%202021-08-09%20at%205.17.31%20PM.png" alt="Clean_water_project" />
+            </a>
+          </article>
           <article>
 
             <div class="card-links">
@@ -22,21 +32,11 @@ export default function Portfolio() {
           </article>
           <article>
             <div class="card-links">
-              <h2>The Clean Water Project</h2>
-              <h3>JavaScript/Handlebars/Node and Multer S3</h3>
-              <h4><a href="https://github.com/shannonjburris/Clean_water_project" target="_blank" rel="noreferrer">Repo Link</a></h4>
+              <h2>Well Waves</h2>
+              <h3>HTML, CSS, JavaScript, API, React, React-strap</h3>
+              <h4><a href="https://github.com/shannonjburris/well-waves" target="_blank" rel="noreferrer">Repo Link</a></h4>
             </div>
-            <a href="https://github.com/shannonjburris/day-planner">
-              <img src="https://raw.githubusercontent.com/shannonjburris/react-portfolio/main/Assets/Images/Screen%20Shot%202021-08-09%20at%205.17.31%20PM.png" alt="Clean_water_project" />
-            </a>
-          </article>
-          <article>
-            <div class="card-links">
-              <h2>Speed Quiz</h2>
-              <h3>JavaScript/CSS</h3>
-              <h4><a href="https://github.com/shannonjburris/quiz-game" target="_blank" rel="noreferrer">Repo Link</a></h4>
-            </div>
-            <img src="https://raw.githubusercontent.com/shannonjburris/react-portfolio/main/Assets/Images/Screen%20Shot%202021-06-29%20at%2010.50.01%20PM.png" alt="speed-quiz" />
+            <img src="https://user-images.githubusercontent.com/85596303/133468897-93e3bce9-8de6-4dee-8556-6ded0cd2541b.png" alt="well-waves" />
 
           </article>
           <article>
@@ -48,16 +48,6 @@ export default function Portfolio() {
             </div>
             <a href="https://shannonjburris.github.io/weather-dashboard/">
               <img src="https://raw.githubusercontent.com/shannonjburris/react-portfolio/main/Assets/Images/Screen%20Shot%202021-07-06%20at%209.09.20%20PM.png" alt="weather-dashboard" />
-            </a>
-          </article>
-          <article>
-            <div class="card-links">
-              <h2>Password Generator</h2>
-              <h3>JavaScript</h3>
-              <h4 class="links"><a href="https://github.com/shannonjburris/password-generator" target="_blank" rel="noreferrer" >Repo Link</a></h4>
-            </div>
-            <a href="https://shannonjburris.github.io/password-generator/">
-              <img src="https://raw.githubusercontent.com/shannonjburris/react-portfolio/main/Assets/Images/Screen%20Shot%202021-06-24%20at%209.37.11%20PM.png" alt="password-generator" />
             </a>
           </article>
         </div>
